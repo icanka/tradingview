@@ -1,0 +1,2033 @@
+{
+    "totalCount": 507,
+    "data": [
+        {
+            "s": "BIST:ZELOT",
+            "d": []
+        },
+        {
+            "s": "BIST:BMSCH",
+            "d": []
+        },
+        {
+            "s": "BIST:GESAN",
+            "d": []
+        },
+        {
+            "s": "BIST:KRGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:GOODY",
+            "d": []
+        },
+        {
+            "s": "BIST:ENKAI",
+            "d": []
+        },
+        {
+            "s": "BIST:YAPRK",
+            "d": []
+        },
+        {
+            "s": "BIST:LIDFA",
+            "d": []
+        },
+        {
+            "s": "BIST:SASA",
+            "d": []
+        },
+        {
+            "s": "BIST:KCHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:SNKRN",
+            "d": []
+        },
+        {
+            "s": "BIST:ISCTR",
+            "d": []
+        },
+        {
+            "s": "BIST:TTRAK",
+            "d": []
+        },
+        {
+            "s": "BIST:SAYAS",
+            "d": []
+        },
+        {
+            "s": "BIST:HUNER",
+            "d": []
+        },
+        {
+            "s": "BIST:TUREX",
+            "d": []
+        },
+        {
+            "s": "BIST:KRTEK",
+            "d": []
+        },
+        {
+            "s": "BIST:ALKA",
+            "d": []
+        },
+        {
+            "s": "BIST:MAVI",
+            "d": []
+        },
+        {
+            "s": "BIST:RNPOL",
+            "d": []
+        },
+        {
+            "s": "BIST:KATMR",
+            "d": []
+        },
+        {
+            "s": "BIST:ANHYT",
+            "d": []
+        },
+        {
+            "s": "BIST:AKSGY",
+            "d": []
+        },
+        {
+            "s": "BIST:ISBIR",
+            "d": []
+        },
+        {
+            "s": "BIST:IZINV",
+            "d": []
+        },
+        {
+            "s": "BIST:GLRYH",
+            "d": []
+        },
+        {
+            "s": "BIST:KERVN",
+            "d": []
+        },
+        {
+            "s": "BIST:ORMA",
+            "d": []
+        },
+        {
+            "s": "BIST:FLAP",
+            "d": []
+        },
+        {
+            "s": "BIST:KFEIN",
+            "d": []
+        },
+        {
+            "s": "BIST:ALCAR",
+            "d": []
+        },
+        {
+            "s": "BIST:EGPRO",
+            "d": []
+        },
+        {
+            "s": "BIST:DOHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:MANAS",
+            "d": []
+        },
+        {
+            "s": "BIST:SILVR",
+            "d": []
+        },
+        {
+            "s": "BIST:DESA",
+            "d": []
+        },
+        {
+            "s": "BIST:IMASM",
+            "d": []
+        },
+        {
+            "s": "BIST:GLYHO",
+            "d": []
+        },
+        {
+            "s": "BIST:LIDER",
+            "d": []
+        },
+        {
+            "s": "BIST:GWIND",
+            "d": []
+        },
+        {
+            "s": "BIST:OSMEN",
+            "d": []
+        },
+        {
+            "s": "BIST:ATEKS",
+            "d": []
+        },
+        {
+            "s": "BIST:CONSE",
+            "d": []
+        },
+        {
+            "s": "BIST:OTKAR",
+            "d": []
+        },
+        {
+            "s": "BIST:KUYAS",
+            "d": []
+        },
+        {
+            "s": "BIST:NTHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:USAK",
+            "d": []
+        },
+        {
+            "s": "BIST:BAYRK",
+            "d": []
+        },
+        {
+            "s": "BIST:GENIL",
+            "d": []
+        },
+        {
+            "s": "BIST:BEYAZ",
+            "d": []
+        },
+        {
+            "s": "BIST:ISSEN",
+            "d": []
+        },
+        {
+            "s": "BIST:ISKPL",
+            "d": []
+        },
+        {
+            "s": "BIST:SARKY",
+            "d": []
+        },
+        {
+            "s": "BIST:MERKO",
+            "d": []
+        },
+        {
+            "s": "BIST:ATAGY",
+            "d": []
+        },
+        {
+            "s": "BIST:KAREL",
+            "d": []
+        },
+        {
+            "s": "BIST:UNLU",
+            "d": []
+        },
+        {
+            "s": "BIST:TETMT",
+            "d": []
+        },
+        {
+            "s": "BIST:ATLAS",
+            "d": []
+        },
+        {
+            "s": "BIST:RTALB",
+            "d": []
+        },
+        {
+            "s": "BIST:GLCVY",
+            "d": []
+        },
+        {
+            "s": "BIST:SUNTK",
+            "d": []
+        },
+        {
+            "s": "BIST:AKENR",
+            "d": []
+        },
+        {
+            "s": "BIST:BSOKE",
+            "d": []
+        },
+        {
+            "s": "BIST:KLSYN",
+            "d": []
+        },
+        {
+            "s": "BIST:MRGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:TRILC",
+            "d": []
+        },
+        {
+            "s": "BIST:YKSLN",
+            "d": []
+        },
+        {
+            "s": "BIST:BOSSA",
+            "d": []
+        },
+        {
+            "s": "BIST:TTKOM",
+            "d": []
+        },
+        {
+            "s": "BIST:DMSAS",
+            "d": []
+        },
+        {
+            "s": "BIST:DOAS",
+            "d": []
+        },
+        {
+            "s": "BIST:AKCNS",
+            "d": []
+        },
+        {
+            "s": "BIST:KAPLM",
+            "d": []
+        },
+        {
+            "s": "BIST:ADESE",
+            "d": []
+        },
+        {
+            "s": "BIST:BAKAB",
+            "d": []
+        },
+        {
+            "s": "BIST:TSGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:TUKAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ANELE",
+            "d": []
+        },
+        {
+            "s": "BIST:HALKB",
+            "d": []
+        },
+        {
+            "s": "BIST:EMNIS",
+            "d": []
+        },
+        {
+            "s": "BIST:MSGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:BFREN",
+            "d": []
+        },
+        {
+            "s": "BIST:LINK",
+            "d": []
+        },
+        {
+            "s": "BIST:ATSYH",
+            "d": []
+        },
+        {
+            "s": "BIST:BURCE",
+            "d": []
+        },
+        {
+            "s": "BIST:TAVHL",
+            "d": []
+        },
+        {
+            "s": "BIST:BRYAT",
+            "d": []
+        },
+        {
+            "s": "BIST:MAALT",
+            "d": []
+        },
+        {
+            "s": "BIST:IZFAS",
+            "d": []
+        },
+        {
+            "s": "BIST:KRDMD",
+            "d": []
+        },
+        {
+            "s": "BIST:SMRTG",
+            "d": []
+        },
+        {
+            "s": "BIST:OZRDN",
+            "d": []
+        },
+        {
+            "s": "BIST:GARFA",
+            "d": []
+        },
+        {
+            "s": "BIST:TDGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:PARSN",
+            "d": []
+        },
+        {
+            "s": "BIST:BALAT",
+            "d": []
+        },
+        {
+            "s": "BIST:SEKUR",
+            "d": []
+        },
+        {
+            "s": "BIST:GRSEL",
+            "d": []
+        },
+        {
+            "s": "BIST:KUVVA",
+            "d": []
+        },
+        {
+            "s": "BIST:YGGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:ROYAL",
+            "d": []
+        },
+        {
+            "s": "BIST:ODAS",
+            "d": []
+        },
+        {
+            "s": "BIST:YUNSA",
+            "d": []
+        },
+        {
+            "s": "BIST:ZTM15",
+            "d": []
+        },
+        {
+            "s": "BIST:TURGG",
+            "d": []
+        },
+        {
+            "s": "BIST:MIPAZ",
+            "d": []
+        },
+        {
+            "s": "BIST:EGEEN",
+            "d": []
+        },
+        {
+            "s": "BIST:NUGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:IHEVA",
+            "d": []
+        },
+        {
+            "s": "BIST:KONYA",
+            "d": []
+        },
+        {
+            "s": "BIST:KLRHO",
+            "d": []
+        },
+        {
+            "s": "BIST:KARYE",
+            "d": []
+        },
+        {
+            "s": "BIST:MERCN",
+            "d": []
+        },
+        {
+            "s": "BIST:OZKGY",
+            "d": []
+        },
+        {
+            "s": "BIST:KARTN",
+            "d": []
+        },
+        {
+            "s": "BIST:POLTK",
+            "d": []
+        },
+        {
+            "s": "BIST:SEYKM",
+            "d": []
+        },
+        {
+            "s": "BIST:HLGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:ULUUN",
+            "d": []
+        },
+        {
+            "s": "BIST:FROTO",
+            "d": []
+        },
+        {
+            "s": "BIST:YATAS",
+            "d": []
+        },
+        {
+            "s": "BIST:FMIZP",
+            "d": []
+        },
+        {
+            "s": "BIST:RODRG",
+            "d": []
+        },
+        {
+            "s": "BIST:SMART",
+            "d": []
+        },
+        {
+            "s": "BIST:TATGD",
+            "d": []
+        },
+        {
+            "s": "BIST:HUBVC",
+            "d": []
+        },
+        {
+            "s": "BIST:PRZMA",
+            "d": []
+        },
+        {
+            "s": "BIST:BJKAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ALFAS",
+            "d": []
+        },
+        {
+            "s": "BIST:EUREN",
+            "d": []
+        },
+        {
+            "s": "BIST:SKTAS",
+            "d": []
+        },
+        {
+            "s": "BIST:AYCES",
+            "d": []
+        },
+        {
+            "s": "BIST:DAPGM",
+            "d": []
+        },
+        {
+            "s": "BIST:BIMAS",
+            "d": []
+        },
+        {
+            "s": "BIST:LOGO",
+            "d": []
+        },
+        {
+            "s": "BIST:KARSN",
+            "d": []
+        },
+        {
+            "s": "BIST:DOCO",
+            "d": []
+        },
+        {
+            "s": "BIST:TCELL",
+            "d": []
+        },
+        {
+            "s": "BIST:VAKBN",
+            "d": []
+        },
+        {
+            "s": "BIST:AYDEM",
+            "d": []
+        },
+        {
+            "s": "BIST:CMENT",
+            "d": []
+        },
+        {
+            "s": "BIST:VAKFN",
+            "d": []
+        },
+        {
+            "s": "BIST:SANKO",
+            "d": []
+        },
+        {
+            "s": "BIST:BRKSN",
+            "d": []
+        },
+        {
+            "s": "BIST:BMSTL",
+            "d": []
+        },
+        {
+            "s": "BIST:AFYON",
+            "d": []
+        },
+        {
+            "s": "BIST:GMSTR",
+            "d": []
+        },
+        {
+            "s": "BIST:GMTAS",
+            "d": []
+        },
+        {
+            "s": "BIST:AKYHO",
+            "d": []
+        },
+        {
+            "s": "BIST:EGGUB",
+            "d": []
+        },
+        {
+            "s": "BIST:ZPT10",
+            "d": []
+        },
+        {
+            "s": "BIST:ENJSA",
+            "d": []
+        },
+        {
+            "s": "BIST:DENGE",
+            "d": []
+        },
+        {
+            "s": "BIST:VANGD",
+            "d": []
+        },
+        {
+            "s": "BIST:BURVA",
+            "d": []
+        },
+        {
+            "s": "BIST:YBTAS",
+            "d": []
+        },
+        {
+            "s": "BIST:BASGZ",
+            "d": []
+        },
+        {
+            "s": "BIST:SELGD",
+            "d": []
+        },
+        {
+            "s": "BIST:EDATA",
+            "d": []
+        },
+        {
+            "s": "BIST:MARTI",
+            "d": []
+        },
+        {
+            "s": "BIST:LUKSK",
+            "d": []
+        },
+        {
+            "s": "BIST:BRLSM",
+            "d": []
+        },
+        {
+            "s": "BIST:DERHL",
+            "d": []
+        },
+        {
+            "s": "BIST:MIATK",
+            "d": []
+        },
+        {
+            "s": "BIST:EDIP",
+            "d": []
+        },
+        {
+            "s": "BIST:BTCIM",
+            "d": []
+        },
+        {
+            "s": "BIST:BIZIM",
+            "d": []
+        },
+        {
+            "s": "BIST:TSPOR",
+            "d": []
+        },
+        {
+            "s": "BIST:CUSAN",
+            "d": []
+        },
+        {
+            "s": "BIST:ZOREN",
+            "d": []
+        },
+        {
+            "s": "BIST:CMBTN",
+            "d": []
+        },
+        {
+            "s": "BIST:AVTUR",
+            "d": []
+        },
+        {
+            "s": "BIST:ISGSY",
+            "d": []
+        },
+        {
+            "s": "BIST:IDGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:NATEN",
+            "d": []
+        },
+        {
+            "s": "BIST:EUHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:ESEN",
+            "d": []
+        },
+        {
+            "s": "BIST:BLCYT",
+            "d": []
+        },
+        {
+            "s": "BIST:ALMAD",
+            "d": []
+        },
+        {
+            "s": "BIST:TEKTU",
+            "d": []
+        },
+        {
+            "s": "BIST:CEMTS",
+            "d": []
+        },
+        {
+            "s": "BIST:SNICA",
+            "d": []
+        },
+        {
+            "s": "BIST:OZGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:HDFGS",
+            "d": []
+        },
+        {
+            "s": "BIST:EKGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:PENGD",
+            "d": []
+        },
+        {
+            "s": "BIST:QUAGR",
+            "d": []
+        },
+        {
+            "s": "BIST:PKENT",
+            "d": []
+        },
+        {
+            "s": "BIST:OYAYO",
+            "d": []
+        },
+        {
+            "s": "BIST:MAKIM",
+            "d": []
+        },
+        {
+            "s": "BIST:KENT",
+            "d": []
+        },
+        {
+            "s": "BIST:AVOD",
+            "d": []
+        },
+        {
+            "s": "BIST:OYLUM",
+            "d": []
+        },
+        {
+            "s": "BIST:METRO",
+            "d": []
+        },
+        {
+            "s": "BIST:KUTPO",
+            "d": []
+        },
+        {
+            "s": "BIST:PNLSN",
+            "d": []
+        },
+        {
+            "s": "BIST:VKING",
+            "d": []
+        },
+        {
+            "s": "BIST:ZPBDL",
+            "d": []
+        },
+        {
+            "s": "BIST:ALARK",
+            "d": []
+        },
+        {
+            "s": "BIST:PINSU",
+            "d": []
+        },
+        {
+            "s": "BIST:AYGAZ",
+            "d": []
+        },
+        {
+            "s": "BIST:KMPUR",
+            "d": []
+        },
+        {
+            "s": "BIST:GOZDE",
+            "d": []
+        },
+        {
+            "s": "BIST:ALKIM",
+            "d": []
+        },
+        {
+            "s": "BIST:MEDTR",
+            "d": []
+        },
+        {
+            "s": "BIST:KRDMB",
+            "d": []
+        },
+        {
+            "s": "BIST:CELHA",
+            "d": []
+        },
+        {
+            "s": "BIST:GUBRF",
+            "d": []
+        },
+        {
+            "s": "BIST:ULAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ORGE",
+            "d": []
+        },
+        {
+            "s": "BIST:IHAAS",
+            "d": []
+        },
+        {
+            "s": "BIST:CANTE",
+            "d": []
+        },
+        {
+            "s": "BIST:YYAPI",
+            "d": []
+        },
+        {
+            "s": "BIST:KERVT",
+            "d": []
+        },
+        {
+            "s": "BIST:ETYAT",
+            "d": []
+        },
+        {
+            "s": "BIST:FENER",
+            "d": []
+        },
+        {
+            "s": "BIST:IHYAY",
+            "d": []
+        },
+        {
+            "s": "BIST:IZMDC",
+            "d": []
+        },
+        {
+            "s": "BIST:GARAN",
+            "d": []
+        },
+        {
+            "s": "BIST:RPFGY",
+            "d": []
+        },
+        {
+            "s": "BIST:DZGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:VKGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:MEPET",
+            "d": []
+        },
+        {
+            "s": "BIST:GEDIK",
+            "d": []
+        },
+        {
+            "s": "BIST:VKFYO",
+            "d": []
+        },
+        {
+            "s": "BIST:SODSN",
+            "d": []
+        },
+        {
+            "s": "BIST:ALGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:BASCM",
+            "d": []
+        },
+        {
+            "s": "BIST:GRNYO",
+            "d": []
+        },
+        {
+            "s": "BIST:ECILC",
+            "d": []
+        },
+        {
+            "s": "BIST:PSGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:GEREL",
+            "d": []
+        },
+        {
+            "s": "BIST:CIMSA",
+            "d": []
+        },
+        {
+            "s": "BIST:HATEK",
+            "d": []
+        },
+        {
+            "s": "BIST:SELVA",
+            "d": []
+        },
+        {
+            "s": "BIST:PAMEL",
+            "d": []
+        },
+        {
+            "s": "BIST:RHEAG",
+            "d": []
+        },
+        {
+            "s": "BIST:BRMEN",
+            "d": []
+        },
+        {
+            "s": "BIST:YKBNK",
+            "d": []
+        },
+        {
+            "s": "BIST:KLMSN",
+            "d": []
+        },
+        {
+            "s": "BIST:ARCLK",
+            "d": []
+        },
+        {
+            "s": "BIST:ISMEN",
+            "d": []
+        },
+        {
+            "s": "BIST:DIRIT",
+            "d": []
+        },
+        {
+            "s": "BIST:MAKTK",
+            "d": []
+        },
+        {
+            "s": "BIST:BRKO",
+            "d": []
+        },
+        {
+            "s": "BIST:ULKER",
+            "d": []
+        },
+        {
+            "s": "BIST:MPARK",
+            "d": []
+        },
+        {
+            "s": "BIST:BRISA",
+            "d": []
+        },
+        {
+            "s": "BIST:TLMAN",
+            "d": []
+        },
+        {
+            "s": "BIST:TUCLK",
+            "d": []
+        },
+        {
+            "s": "BIST:YAYLA",
+            "d": []
+        },
+        {
+            "s": "BIST:QPERP",
+            "d": []
+        },
+        {
+            "s": "BIST:VERTU",
+            "d": []
+        },
+        {
+            "s": "BIST:PENTA",
+            "d": []
+        },
+        {
+            "s": "BIST:BRSAN",
+            "d": []
+        },
+        {
+            "s": "BIST:ORCAY",
+            "d": []
+        },
+        {
+            "s": "BIST:GLBMD",
+            "d": []
+        },
+        {
+            "s": "BIST:FONET",
+            "d": []
+        },
+        {
+            "s": "BIST:DAGI",
+            "d": []
+        },
+        {
+            "s": "BIST:KOZAA",
+            "d": []
+        },
+        {
+            "s": "BIST:ENSRI",
+            "d": []
+        },
+        {
+            "s": "BIST:NETAS",
+            "d": []
+        },
+        {
+            "s": "BIST:MAGEN",
+            "d": []
+        },
+        {
+            "s": "BIST:TGSAS",
+            "d": []
+        },
+        {
+            "s": "BIST:LKMNH",
+            "d": []
+        },
+        {
+            "s": "BIST:INVES",
+            "d": []
+        },
+        {
+            "s": "BIST:PEGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:PAGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:SELEC",
+            "d": []
+        },
+        {
+            "s": "BIST:VESTL",
+            "d": []
+        },
+        {
+            "s": "BIST:KGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:KRONT",
+            "d": []
+        },
+        {
+            "s": "BIST:PRKME",
+            "d": []
+        },
+        {
+            "s": "BIST:ADEL",
+            "d": []
+        },
+        {
+            "s": "BIST:TBORG",
+            "d": []
+        },
+        {
+            "s": "BIST:FORMT",
+            "d": []
+        },
+        {
+            "s": "BIST:VESBE",
+            "d": []
+        },
+        {
+            "s": "BIST:SANEL",
+            "d": []
+        },
+        {
+            "s": "BIST:OYYAT",
+            "d": []
+        },
+        {
+            "s": "BIST:TMPOL",
+            "d": []
+        },
+        {
+            "s": "BIST:ISKUR",
+            "d": []
+        },
+        {
+            "s": "BIST:PETUN",
+            "d": []
+        },
+        {
+            "s": "BIST:KLGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:KSTUR",
+            "d": []
+        },
+        {
+            "s": "BIST:FRIGO",
+            "d": []
+        },
+        {
+            "s": "BIST:OYAKC",
+            "d": []
+        },
+        {
+            "s": "BIST:ALBTS",
+            "d": []
+        },
+        {
+            "s": "BIST:KCAER",
+            "d": []
+        },
+        {
+            "s": "BIST:ZRGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:POLHO",
+            "d": []
+        },
+        {
+            "s": "BIST:ARZUM",
+            "d": []
+        },
+        {
+            "s": "BIST:YEOTK",
+            "d": []
+        },
+        {
+            "s": "BIST:ICBCT",
+            "d": []
+        },
+        {
+            "s": "BIST:ELITE",
+            "d": []
+        },
+        {
+            "s": "BIST:BARMA",
+            "d": []
+        },
+        {
+            "s": "BIST:SOKM",
+            "d": []
+        },
+        {
+            "s": "BIST:IEYHO",
+            "d": []
+        },
+        {
+            "s": "BIST:KZBGY",
+            "d": []
+        },
+        {
+            "s": "BIST:DITAS",
+            "d": []
+        },
+        {
+            "s": "BIST:KRVGD",
+            "d": []
+        },
+        {
+            "s": "BIST:ISATR",
+            "d": []
+        },
+        {
+            "s": "BIST:ALCTL",
+            "d": []
+        },
+        {
+            "s": "BIST:ASUZU",
+            "d": []
+        },
+        {
+            "s": "BIST:GENTS",
+            "d": []
+        },
+        {
+            "s": "BIST:ESCOM",
+            "d": []
+        },
+        {
+            "s": "BIST:DGNMO",
+            "d": []
+        },
+        {
+            "s": "BIST:AKSUE",
+            "d": []
+        },
+        {
+            "s": "BIST:DYOBY",
+            "d": []
+        },
+        {
+            "s": "BIST:GEDZA",
+            "d": []
+        },
+        {
+            "s": "BIST:RAYSG",
+            "d": []
+        },
+        {
+            "s": "BIST:OSTIM",
+            "d": []
+        },
+        {
+            "s": "BIST:EGSER",
+            "d": []
+        },
+        {
+            "s": "BIST:GOLTS",
+            "d": []
+        },
+        {
+            "s": "BIST:DAGHL",
+            "d": []
+        },
+        {
+            "s": "BIST:ARDYZ",
+            "d": []
+        },
+        {
+            "s": "BIST:SNPAM",
+            "d": []
+        },
+        {
+            "s": "BIST:AKFGY",
+            "d": []
+        },
+        {
+            "s": "BIST:ZRE20",
+            "d": []
+        },
+        {
+            "s": "BIST:AUODK",
+            "d": []
+        },
+        {
+            "s": "BIST:MGROS",
+            "d": []
+        },
+        {
+            "s": "BIST:NIBAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ZPX30",
+            "d": []
+        },
+        {
+            "s": "BIST:AGESA",
+            "d": []
+        },
+        {
+            "s": "BIST:BOBET",
+            "d": []
+        },
+        {
+            "s": "BIST:YONGA",
+            "d": []
+        },
+        {
+            "s": "BIST:PEKGY",
+            "d": []
+        },
+        {
+            "s": "BIST:SEGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:MMCAS",
+            "d": []
+        },
+        {
+            "s": "BIST:SAMAT",
+            "d": []
+        },
+        {
+            "s": "BIST:PNSUT",
+            "d": []
+        },
+        {
+            "s": "BIST:AVGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:DEVA",
+            "d": []
+        },
+        {
+            "s": "BIST:KORDS",
+            "d": []
+        },
+        {
+            "s": "BIST:ZEDUR",
+            "d": []
+        },
+        {
+            "s": "BIST:PSDTC",
+            "d": []
+        },
+        {
+            "s": "BIST:BANVT",
+            "d": []
+        },
+        {
+            "s": "BIST:EGEPO",
+            "d": []
+        },
+        {
+            "s": "BIST:TUPRS",
+            "d": []
+        },
+        {
+            "s": "BIST:SAFKR",
+            "d": []
+        },
+        {
+            "s": "BIST:NTGAZ",
+            "d": []
+        },
+        {
+            "s": "BIST:GZNMI",
+            "d": []
+        },
+        {
+            "s": "BIST:YESIL",
+            "d": []
+        },
+        {
+            "s": "BIST:SAHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:PAPIL",
+            "d": []
+        },
+        {
+            "s": "BIST:DJIST",
+            "d": []
+        },
+        {
+            "s": "BIST:BUCIM",
+            "d": []
+        },
+        {
+            "s": "BIST:PRKAB",
+            "d": []
+        },
+        {
+            "s": "BIST:AZTEK",
+            "d": []
+        },
+        {
+            "s": "BIST:ARSAN",
+            "d": []
+        },
+        {
+            "s": "BIST:ARENA",
+            "d": []
+        },
+        {
+            "s": "BIST:ASELS",
+            "d": []
+        },
+        {
+            "s": "BIST:UFUK",
+            "d": []
+        },
+        {
+            "s": "BIST:KTSKR",
+            "d": []
+        },
+        {
+            "s": "BIST:USDTR",
+            "d": []
+        },
+        {
+            "s": "BIST:ERBOS",
+            "d": []
+        },
+        {
+            "s": "BIST:PCILT",
+            "d": []
+        },
+        {
+            "s": "BIST:MARKA",
+            "d": []
+        },
+        {
+            "s": "BIST:SANFM",
+            "d": []
+        },
+        {
+            "s": "BIST:GLDTR",
+            "d": []
+        },
+        {
+            "s": "BIST:KLKIM",
+            "d": []
+        },
+        {
+            "s": "BIST:OZSUB",
+            "d": []
+        },
+        {
+            "s": "BIST:KRDMA",
+            "d": []
+        },
+        {
+            "s": "BIST:BAGFS",
+            "d": []
+        },
+        {
+            "s": "BIST:KRSTL",
+            "d": []
+        },
+        {
+            "s": "BIST:IHGZT",
+            "d": []
+        },
+        {
+            "s": "BIST:CASA",
+            "d": []
+        },
+        {
+            "s": "BIST:RYGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:KOZAL",
+            "d": []
+        },
+        {
+            "s": "BIST:ULUFA",
+            "d": []
+        },
+        {
+            "s": "BIST:TOASO",
+            "d": []
+        },
+        {
+            "s": "BIST:ATATP",
+            "d": []
+        },
+        {
+            "s": "BIST:EMKEL",
+            "d": []
+        },
+        {
+            "s": "BIST:Z30KP",
+            "d": []
+        },
+        {
+            "s": "BIST:APYVC",
+            "d": []
+        },
+        {
+            "s": "BIST:TRCAS",
+            "d": []
+        },
+        {
+            "s": "BIST:MOBTL",
+            "d": []
+        },
+        {
+            "s": "BIST:BNTAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ITTFH",
+            "d": []
+        },
+        {
+            "s": "BIST:ERCB",
+            "d": []
+        },
+        {
+            "s": "BIST:GSDDE",
+            "d": []
+        },
+        {
+            "s": "BIST:TEZOL",
+            "d": []
+        },
+        {
+            "s": "BIST:HTTBT",
+            "d": []
+        },
+        {
+            "s": "BIST:UZERB",
+            "d": []
+        },
+        {
+            "s": "BIST:RUBNS",
+            "d": []
+        },
+        {
+            "s": "BIST:NUHCM",
+            "d": []
+        },
+        {
+            "s": "BIST:ZGOLD",
+            "d": []
+        },
+        {
+            "s": "BIST:CRDFA",
+            "d": []
+        },
+        {
+            "s": "BIST:PRDGS",
+            "d": []
+        },
+        {
+            "s": "BIST:QNBFL",
+            "d": []
+        },
+        {
+            "s": "BIST:DOBUR",
+            "d": []
+        },
+        {
+            "s": "BIST:OTTO",
+            "d": []
+        },
+        {
+            "s": "BIST:THYAO",
+            "d": []
+        },
+        {
+            "s": "BIST:IPEKE",
+            "d": []
+        },
+        {
+            "s": "BIST:JANTS",
+            "d": []
+        },
+        {
+            "s": "BIST:MNDRS",
+            "d": []
+        },
+        {
+            "s": "BIST:SNGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:BERA",
+            "d": []
+        },
+        {
+            "s": "BIST:METUR",
+            "d": []
+        },
+        {
+            "s": "BIST:DGATE",
+            "d": []
+        },
+        {
+            "s": "BIST:SISE",
+            "d": []
+        },
+        {
+            "s": "BIST:YGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:PGSUS",
+            "d": []
+        },
+        {
+            "s": "BIST:QNBFB",
+            "d": []
+        },
+        {
+            "s": "BIST:FADE",
+            "d": []
+        },
+        {
+            "s": "BIST:AEFES",
+            "d": []
+        },
+        {
+            "s": "BIST:ECZYT",
+            "d": []
+        },
+        {
+            "s": "BIST:APYKS",
+            "d": []
+        },
+        {
+            "s": "BIST:SUMAS",
+            "d": []
+        },
+        {
+            "s": "BIST:OBASE",
+            "d": []
+        },
+        {
+            "s": "BIST:VERUS",
+            "d": []
+        },
+        {
+            "s": "BIST:ERSU",
+            "d": []
+        },
+        {
+            "s": "BIST:HKTM",
+            "d": []
+        },
+        {
+            "s": "BIST:TSKB",
+            "d": []
+        },
+        {
+            "s": "BIST:DOGUB",
+            "d": []
+        },
+        {
+            "s": "BIST:BIOEN",
+            "d": []
+        },
+        {
+            "s": "BIST:VBTYZ",
+            "d": []
+        },
+        {
+            "s": "BIST:KONTR",
+            "d": []
+        },
+        {
+            "s": "BIST:ESCAR",
+            "d": []
+        },
+        {
+            "s": "BIST:INVEO",
+            "d": []
+        },
+        {
+            "s": "BIST:IHLAS",
+            "d": []
+        },
+        {
+            "s": "BIST:INFO",
+            "d": []
+        },
+        {
+            "s": "BIST:YYLGD",
+            "d": []
+        },
+        {
+            "s": "BIST:SEKFK",
+            "d": []
+        },
+        {
+            "s": "BIST:ANGEN",
+            "d": []
+        },
+        {
+            "s": "BIST:DGGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:ALDUK",
+            "d": []
+        },
+        {
+            "s": "BIST:MZHLD",
+            "d": []
+        },
+        {
+            "s": "BIST:INTEM",
+            "d": []
+        },
+        {
+            "s": "BIST:SONME",
+            "d": []
+        },
+        {
+            "s": "BIST:AGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:AKMGY",
+            "d": []
+        },
+        {
+            "s": "BIST:TMSN",
+            "d": []
+        },
+        {
+            "s": "BIST:KONKA",
+            "d": []
+        },
+        {
+            "s": "BIST:ETILR",
+            "d": []
+        },
+        {
+            "s": "BIST:EPLAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ISDMR",
+            "d": []
+        },
+        {
+            "s": "BIST:ZPLIB",
+            "d": []
+        },
+        {
+            "s": "BIST:VAKKO",
+            "d": []
+        },
+        {
+            "s": "BIST:KNFRT",
+            "d": []
+        },
+        {
+            "s": "BIST:GSRAY",
+            "d": []
+        },
+        {
+            "s": "BIST:ANSGR",
+            "d": []
+        },
+        {
+            "s": "BIST:CCOLA",
+            "d": []
+        },
+        {
+            "s": "BIST:CLEBI",
+            "d": []
+        },
+        {
+            "s": "BIST:DOKTA",
+            "d": []
+        },
+        {
+            "s": "BIST:EUYO",
+            "d": []
+        },
+        {
+            "s": "BIST:SKBNK",
+            "d": []
+        },
+        {
+            "s": "BIST:AKGRT",
+            "d": []
+        },
+        {
+            "s": "BIST:HURGZ",
+            "d": []
+        },
+        {
+            "s": "BIST:ISGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:TKFEN",
+            "d": []
+        },
+        {
+            "s": "BIST:IDEAS",
+            "d": []
+        },
+        {
+            "s": "BIST:MPATA",
+            "d": []
+        },
+        {
+            "s": "BIST:CEOEM",
+            "d": []
+        },
+        {
+            "s": "BIST:AGHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:PETKM",
+            "d": []
+        },
+        {
+            "s": "BIST:AKSA",
+            "d": []
+        },
+        {
+            "s": "BIST:MTRYO",
+            "d": []
+        },
+        {
+            "s": "BIST:TURSG",
+            "d": []
+        },
+        {
+            "s": "BIST:ALBRK",
+            "d": []
+        },
+        {
+            "s": "BIST:DERIM",
+            "d": []
+        },
+        {
+            "s": "BIST:AYEN",
+            "d": []
+        },
+        {
+            "s": "BIST:EKIZ",
+            "d": []
+        },
+        {
+            "s": "BIST:ULUSE",
+            "d": []
+        },
+        {
+            "s": "BIST:DURDO",
+            "d": []
+        },
+        {
+            "s": "BIST:ACSEL",
+            "d": []
+        },
+        {
+            "s": "BIST:ARMDA",
+            "d": []
+        },
+        {
+            "s": "BIST:KIMMR",
+            "d": []
+        },
+        {
+            "s": "BIST:HEDEF",
+            "d": []
+        },
+        {
+            "s": "BIST:Z30KE",
+            "d": []
+        },
+        {
+            "s": "BIST:MNDTR",
+            "d": []
+        },
+        {
+            "s": "BIST:GSDHO",
+            "d": []
+        },
+        {
+            "s": "BIST:ISYAT",
+            "d": []
+        },
+        {
+            "s": "BIST:RYSAS",
+            "d": []
+        },
+        {
+            "s": "BIST:EUKYO",
+            "d": []
+        },
+        {
+            "s": "BIST:MERIT",
+            "d": []
+        },
+        {
+            "s": "BIST:RALYH",
+            "d": []
+        },
+        {
+            "s": "BIST:DARDL",
+            "d": []
+        },
+        {
+            "s": "BIST:MTRKS",
+            "d": []
+        },
+        {
+            "s": "BIST:DESPC",
+            "d": []
+        },
+        {
+            "s": "BIST:ARASE",
+            "d": []
+        },
+        {
+            "s": "BIST:CRFSA",
+            "d": []
+        },
+        {
+            "s": "BIST:AVHOL",
+            "d": []
+        },
+        {
+            "s": "BIST:AKSEN",
+            "d": []
+        },
+        {
+            "s": "BIST:CEMAS",
+            "d": []
+        },
+        {
+            "s": "BIST:ISBTR",
+            "d": []
+        },
+        {
+            "s": "BIST:MEGAP",
+            "d": []
+        },
+        {
+            "s": "BIST:TKNSA",
+            "d": []
+        },
+        {
+            "s": "BIST:TRGYO",
+            "d": []
+        },
+        {
+            "s": "BIST:KLNMA",
+            "d": []
+        },
+        {
+            "s": "BIST:HEKTS",
+            "d": []
+        },
+        {
+            "s": "BIST:Z30EA",
+            "d": []
+        },
+        {
+            "s": "BIST:MRSHL",
+            "d": []
+        },
+        {
+            "s": "BIST:INDES",
+            "d": []
+        },
+        {
+            "s": "BIST:RPAVS",
+            "d": []
+        },
+        {
+            "s": "BIST:EREGL",
+            "d": []
+        },
+        {
+            "s": "BIST:SRVGY",
+            "d": []
+        },
+        {
+            "s": "BIST:SUWEN",
+            "d": []
+        },
+        {
+            "s": "BIST:PKART",
+            "d": []
+        },
+        {
+            "s": "BIST:ALTIN",
+            "d": []
+        },
+        {
+            "s": "BIST:DNISI",
+            "d": []
+        },
+        {
+            "s": "BIST:COSMO",
+            "d": []
+        },
+        {
+            "s": "BIST:KRPLS",
+            "d": []
+        },
+        {
+            "s": "BIST:ISFIN",
+            "d": []
+        },
+        {
+            "s": "BIST:AYES",
+            "d": []
+        },
+        {
+            "s": "BIST:IHLGM",
+            "d": []
+        },
+        {
+            "s": "BIST:AKBNK",
+            "d": []
+        }
+    ]
+}
