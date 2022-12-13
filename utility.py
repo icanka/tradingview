@@ -6,23 +6,23 @@ import requests
 import datetime
 
 
-def get_symbols(screener_country="crypto"):
+def get_symbols(screener="crypto"):
     '''Place holder docstring'''
 
     headers = {"User-Agent": "Mozilla/5.0"}
-    url = f'https://scanner.tradingview.com/{screener_country}/scan'
+    url = f'https://scanner.tradingview.com/{screener}/scan'
     symbol_lists = requests.post(url, headers=headers, timeout=10).json()
     return symbol_lists
 
 
-def mlog(market, *text):
+def mlog(stock, *text):
     '''Log in a timed fassion'''
     text = [str(i) for i in text]
     text = " ".join(text)
 
     datestamp = str(datetime.datetime.now().strftime("%H:%M:%S.%f")[:-3])
 
-    print(f"[{datestamp} {market}] - {text}")
+    print(f"[{datestamp} {stock}] - {text}")
 
 
 def dump_json(data, filename):
@@ -31,13 +31,13 @@ def dump_json(data, filename):
         json.dump(data, file, indent=4)
 
 
-def get_signal(screener_country, market, candle):
+def get_signal(screener, stock, candle):
     '''Place holder docstring'''
     headers = {"User-Agent": "Mozilla/5.0"}
-    url = f"https://scanner.tradingview.com/{screener_country}/scan"
+    url = f"https://scanner.tradingview.com/{screener}/scan"
 
     payload = {
-        "symbols": {"tickers": [f"BIST:{market}"], "query": {"types": []}},
+        "symbols": {"tickers": [f"BIST:{stock}"], "query": {"types": []}},
         "columns": [
             f"Recommend.Other|{candle}",
             f"Recommend.All|{candle}",
@@ -127,3 +127,35 @@ def get_signal(screener_country, market, candle):
     signal = resp["data"][0]["d"][1]
 
     return signal
+
+
+def get_signal_test(market, screener, symbol, candle):
+    '''
+    Get buy or sell signals for a specific stock from a market.
+        Parameters:
+            market (str): market name such as BINANCE, NASDAQ, BIST
+            screener (str): country name such as america, turkey, or crypto
+            symbol (str): stock symbol such as BTCUSDT, AAPL, AMD
+            candle (str): candle type such as 1, 5, 15, 30, 60, 240, 1D, 1W, 1M
+    '''
+    headers = {"User-Agent": "Mozilla/5.0"}
+    url = f"https://scanner.tradingview.com/{screener}/scan"
+
+    payload = {
+        "symbols": {"tickers": [f"{market}:{symbol}"], "query": {"types": []}},
+        "columns": [
+            f"RSI|{candle}"
+        ],
+    }
+
+    resp = requests.post(url, headers=headers,
+                         data=json.dumps(payload), timeout=10).json()
+    dump_json(resp, "resp.json")
+    signal = resp["data"][0]["d"][1]
+
+    return signal
+
+
+if __name__ == '__main__':
+    get_symbols("crypto")
+    get_signal_test("BINANCE","crypto", "BTCUSDT", "60")

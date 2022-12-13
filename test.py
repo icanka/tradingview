@@ -2,7 +2,7 @@ import datetime
 from pprint import pprint
 import requests
 import json
-from utility import dump_json
+from utility import get_signal_test, dump_json
 
 
 def mlog(market, *text):
@@ -18,12 +18,13 @@ def mlog(market, *text):
 
     print(f"[{datestamp} {market}] - {text}")
 
+
 def test(test, arg="test"):
     """Place holder docstring"""
     print(test)
     print(arg)
-    
-    
+
+
 def get_symbols(screener_country="turkey"):
     '''Place holder docstring'''
 
@@ -36,5 +37,7 @@ def get_symbols(screener_country="turkey"):
 
 # json_data = get_symbols()
 
+
 if __name__ == '__main__':
-    get_symbols()
+    get_symbols("crypto")
+    get_signal_test("crypto", "BTCUSDT", "60")
