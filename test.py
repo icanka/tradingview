@@ -2,21 +2,8 @@ import datetime
 from pprint import pprint
 import requests
 import json
-from utility import get_signal_test, dump_json
-
-
-def mlog(market, *text):
-    """Place holder docstring"""
-    print(text)
-    print(type(text))
-    text = [str(i) for i in text]
-    print(type(text))
-
-    text = " ".join(text)
-
-    datestamp = str(datetime.datetime.now().strftime("%H:%M:%S.%f")[:-3])
-
-    print(f"[{datestamp} {market}] - {text}")
+from utility import get_signal_test, dump_json, mlog
+from tradingview_ta import TA_Handler, Interval, Exchange
 
 
 def test(test, arg="test"):
@@ -39,5 +26,14 @@ def get_symbols(screener_country="turkey"):
 
 
 if __name__ == '__main__':
-    get_symbols("crypto")
-    get_signal_test("crypto", "BTCUSDT", "60")
+
+    tesla = TA_Handler(
+    symbol="ETHUSDT",
+    screener="crypto",
+    exchange="BINANCE",
+    interval=Interval.INTERVAL_1_MINUTE
+    )
+    string = ""
+    for key, value in tesla.get_analysis().summary.items():
+        string += f"{key}: {value} "
+    mlog("ETHUSDT", string)

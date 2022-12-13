@@ -144,7 +144,13 @@ def get_signal_test(market, screener, symbol, candle):
     payload = {
         "symbols": {"tickers": [f"{market}:{symbol}"], "query": {"types": []}},
         "columns": [
-            f"RSI|{candle}"
+            "Recommend.Other|{}".format(candle),
+            "Recommend.All|{}".format(candle),
+            "Recommend.MA|{}".format(candle),
+            "RSI|{}".format(candle),
+            "RSI[1]|{}".format(candle),
+            "Stoch.K|{}".format(candle),
+            "Stoch.D|{}".format(candle),
         ],
     }
 
@@ -158,4 +164,5 @@ def get_signal_test(market, screener, symbol, candle):
 
 if __name__ == '__main__':
     get_symbols("crypto")
-    get_signal_test("BINANCE","crypto", "BTCUSDT", "60")
+    get_signal_test("BINANCE","crypto", "ETHUSDT", "1")
+    
