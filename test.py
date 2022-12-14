@@ -31,7 +31,7 @@ if __name__ == '__main__':
     symbol="ETHUSDT",
     screener="crypto",
     exchange="BINANCE",
-    interval=Interval.INTERVAL_1_MINUTE
+    interval=Interval.INTERVAL_15_MINUTES
     )
     string = ""
     for key, value in tesla.get_analysis().summary.items():
